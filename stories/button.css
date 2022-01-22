@@ -1,0 +1,27 @@
+.rc_bt{
+  outline: none;
+  border:none;
+  box-shadow: 0px 0px 5px #c9757c;
+  padding:20px;
+  color:white;
+  font-weight: 800;
+  background-color: rgb(126, 10, 126);
+  border-radius: 4px;
+  box-shadow: 0px 2px 4px black;
+}
+
+.rc_bt:hover{
+  cursor:pointer;
+  color:rgb(243, 201, 201);
+  background-color: rgb(168, 45, 168);;
+  font-weight: 800;
+} 
+
+.Bg_Canvas{
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.opac_yes{
+  opacity: 1 !important;
+}
