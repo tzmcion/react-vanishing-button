@@ -5,7 +5,7 @@ Vanishing button is something like thanos awesome glove effect but a little wors
 
 ## Instalation:
 
-Typescript : ` npm i react-vanishing-button `
+Typescript : ` npm i react-vanishing-button2 `
 Javascript: `Work in progress`
 
 ## Usage
